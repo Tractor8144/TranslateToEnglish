@@ -1,0 +1,5 @@
+﻿.vs
+TranslateExtension/.vsextension
+TranslateExtension/bin
+TranslateExtension/obj
+TranslateExtension/secret.json
