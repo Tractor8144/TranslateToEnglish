@@ -36,8 +36,3 @@
 - **Visual Studio 2022**
 - **.NET 6+**
 - **Google Cloud Translation API credentials**
-
-### 🏗 Building the Extension
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/TranslateToEnglish.git
