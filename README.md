@@ -62,7 +62,7 @@ Google Cloud Translation API credentials
 
 Clone the repository:
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/TranslateToEnglish.git
+git clone https://github.com/Tractor8144/TranslateToEnglish.git
 
 Open the solution in Visual Studio 2022.
 
